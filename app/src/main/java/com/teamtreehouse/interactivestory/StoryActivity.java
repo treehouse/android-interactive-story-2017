@@ -15,7 +15,17 @@ public class StoryActivity extends AppCompatActivity {
         setContentView(R.layout.activity_story);
 
         Intent intent = getIntent();
-        String name = intent.getStringExtra("Name");
+        String name = intent.getStringExtra("name");
+        if (name == null || name.isEmpty()) {
+            name = "Friend";
+        }
         Log.d(TAG, name);
     }
 }
+
+
+
+
+
+
+
