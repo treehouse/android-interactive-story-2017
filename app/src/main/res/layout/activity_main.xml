@@ -41,6 +41,7 @@
         android:layout_marginBottom="0dp"
         android:layout_marginLeft="0dp"
         android:layout_marginRight="0dp"
+        android:background="@android:color/white"
         android:ems="10"
         android:hint="Enter your name"
         android:inputType="textCapWords|textPersonName"
