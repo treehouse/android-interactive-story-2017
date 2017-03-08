@@ -1,3 +1,4 @@
 <resources>
-    <string name="app_name">Interactive Story</string>
+    <string name="app_name">Signals from Mars</string>
+    <string name="key_name">name</string>
 </resources>
