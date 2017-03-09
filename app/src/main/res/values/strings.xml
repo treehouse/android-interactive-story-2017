@@ -28,6 +28,7 @@
     <string name="page5">After a long walk slightly uphill, you end up at the top of a small crater. You look around, and are overjoyed to see your favorite android, %1$s-S1124. It had been lost on a previous mission to Mars! You take it back to your ship and fly back to Earth.</string>
 
     <string name="page6">You arrive home on Earth. While your mission was a success, you forever wonder what was sending that signal. Perhaps a future mission will be able to investigate…</string>
+    <string name="story_image_content_description">Story page image</string>
 
 </resources>
 
