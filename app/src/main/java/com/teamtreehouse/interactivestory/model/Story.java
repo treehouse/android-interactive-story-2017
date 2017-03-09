@@ -39,3 +39,11 @@ public class Story {
         pages[6] = new Page(R.drawable.page6, R.string.page6);
     }
 }
+
+
+
+
+
+
+
+
